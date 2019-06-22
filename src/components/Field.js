@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Field extends ReactComponent {
+class Field extends React.Component {
   render () {
     return (
       <div className="ui field">
